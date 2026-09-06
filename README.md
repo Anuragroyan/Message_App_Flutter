@@ -1,5 +1,6 @@
-# message_app
+# 💬 Messenger App is a Flutter application that demonstrates real-time messaging using Firebase. Users can send and receive messages, with Firebase handling message storage and synchronization to provide a simple and responsive chat experience.
 
+# ScreenShots
 
 ![alt text](Screenshot_20240918-043737.jpg) 
 ![alt text](Screenshot_20240918-043751.jpg) 
